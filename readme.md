@@ -6,8 +6,13 @@ Hello There! I'm Tom :wave:
 <h3 align="center">
 I'm learning to be a full-stack dev :computer: whilst attempting to blog the rest of what I get up to :green_book:
 </h3> 
-
-<h2 align="left">
+<h3 align = "left">
+Connect with me: 
+<h3 align="left">
+<a href="https://medium.com/@tomfell2360">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium">
+</a>
+<h2>
 :city_sunset: Currently working on:
 </h2>
 :hammer: building my first website using React <br>
