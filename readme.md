@@ -13,11 +13,7 @@ Connect with me:
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium">
 </a>
  
-<h2>
-Currently Listening to: 
-
-<h2>
- [![Spotify](https://novatorem-readme-twf2360.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/1199602356) <br>
+ <br> [![Spotify](https://novatorem-readme-twf2360.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/1199602356) <br>
 
  :city_sunset: Currently working on:
 </h2>
