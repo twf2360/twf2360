@@ -15,7 +15,7 @@ Connect with me:
  
 <h2>
 Currently Listening to: 
-[![Spotify][(https://novatorem-readme-twf2360.vercel.app/api/spotify)](https://open.spotify.com/user/1199602356)
+[![Spotify](https://novatorem-readme-twf2360.vercel.app/api/spotify)]
 <h2>
 :city_sunset: Currently working on:
 </h2>
