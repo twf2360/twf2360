@@ -12,6 +12,10 @@ Connect with me:
 <a href="https://medium.com/@tomfell2360">
 <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="medium">
 </a>
+ 
+<h2>
+Currently Listening to: 
+[![Spotify](https://twf2360.novatorem-readme.vercel.app/api/spotify)](https://open.spotify.com/user/1199602356)
 <h2>
 :city_sunset: Currently working on:
 </h2>
