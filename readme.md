@@ -32,7 +32,8 @@ Currently Listening To:</h2>
 :orange_book: Getting my blog up and running <br>
 :hotsprings: learning tailwind CSS <br>
 :notes: Spotify listening habits anaylsis in python <br>
-:runner: Strava data anaylsis in Python
+:runner: Strava data anaylsis in Python <br>
+:factory: Upgrading my productivity processes
 <h2> :briefcase: Past projects and Experience:</h2>
 :space_invader: My pride and joy is my model of the Jovian magnetosphere - feel free to ask me about it anytime! <br>
 :snake: Various data anaylsis projects through my degree 
