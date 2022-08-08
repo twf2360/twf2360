@@ -1,10 +1,10 @@
-<img src='20220719_212853_0000.png' title = 'banner'>
+<!-- img src='20220719_212853_0000.png' title = 'banner' -->
 
 <h2 align="center">
 Hello There! I'm Tom :wave:
 </h2>
 <h3 align="center">
-I'm learning to be a full-stack dev :computer: whilst attempting to blog the rest of what I get up to :green_book:
+I'm learning to be a full-stack dev :computer: 
 </h3> 
 <h3 align = "left">
 Connect with me: 
@@ -29,11 +29,9 @@ Currently Listening To:</h2>
  :city_sunset: Currently & Soon to Be Working On:
 </h2>
 :hammer: Building my first website using React <br>
-:orange_book: Getting my blog up and running <br>
 :hotsprings: learning tailwind CSS <br>
 :notes: Spotify listening habits anaylsis in python <br>
 :runner: Strava data anaylsis in Python <br>
-:factory: Upgrading my productivity processes
 <h2> :briefcase: Past projects and Experience:</h2>
 :space_invader: My pride and joy is my model of the Jovian magnetosphere - feel free to ask me about it anytime! <br>
 :snake: Various data anaylsis projects through my degree 
