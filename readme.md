@@ -4,7 +4,7 @@
 Hello There! I'm Tom :wave:
 </h2>
 <h3 align="center">
-I'm learning to be a full-stack dev :computer: 
+<!-- I'm learning to be a full-stack dev :computer: -->
 </h3> 
 <h3 align = "left">
 Connect with me: 
