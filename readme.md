@@ -12,8 +12,7 @@ I'm passionate about solving weird and unusual technical problems, and bringing 
 
 <h3 align = "left"> Tech Stack:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=aws,androidstudio,kotlin,python,firebase,gradle,jenkins,rubby&perline=7)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=aws,androidstudio,kotlin,python,firebase,gradle,jenkins,ruby&perline=8)](https://skillicons.dev)
 <h3 align = "left">
 Connect with me: 
 </h3>
