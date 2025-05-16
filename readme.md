@@ -15,7 +15,6 @@ I'm passionate about solving weird and unusual technical problems, and bringing 
 [![My Skills](https://skillicons.dev/icons?i=aws,androidstudio,kotlin,python,firebase,gradle,jenkins,rubby&perline=7)](https://skillicons.dev)
 
 <h3 align = "left">
-
 Connect with me: 
 </h3>
 <a href="https://www.linkedin.com/in/tom-fell-b8562b189">
