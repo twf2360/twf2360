@@ -7,7 +7,7 @@ Hello There! I'm Tom :octocat:
 <a align="left">
 I'm an Android Engineer, former physics student, and all around nerd. With any spare time remaining, you'll find me out swimming, cycling and running 🏊‍♂️🚲🏃
 
-I'm passionate about solving weird and unusual technical problems, and bringing a different mindset to the world of tech. I'm equally as passionate at making sure we use tech for good, and maximising the human experience
+I'm passionate about solving weird and unusual technical problems, and bringing a different mindset to the world of tech. 
 </a> 
 
 <h3 align = "left"> Tech Stack:</h3>
