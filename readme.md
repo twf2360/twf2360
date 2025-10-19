@@ -8,6 +8,8 @@ Hello There! I'm Tom :octocat:
 I'm an Android Engineer, former physics student, and all around nerd. With any spare time remaining, you'll find me out swimming, cycling and running 🏊‍♂️🚲🏃
 
 I'm passionate about solving weird and unusual technical problems, and bringing a different mindset to the world of tech. 
+
+If want to learn more about who I am and what I'm up to, check out my website [here](https://www.twfell.co.uk/).
 </a> 
 
 <h3 align = "left"> Tech Stack:</h3>
