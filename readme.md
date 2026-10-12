@@ -11,7 +11,6 @@ I'm passionate about solving weird and unusual technical problems, and bringing 
 
 If want to learn more about who I am and what I'm up to, check out my website [here](https://www.twfell.co.uk/).
 
-This profile has all sorts of stuff, from Uni projects to random exploratory work, so don't judge it too harshly! 😆
 </a> 
 
 <h3 align = "left"> Tech Stack:</h3>
